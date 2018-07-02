@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "769280109627",
+    "firebase_url": "https://chatapp-608ee.firebaseio.com",
+    "project_id": "chatapp-608ee",
+    "storage_bucket": "chatapp-608ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769280109627:android:9ff0d7f534bcad24",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769280109627-u011spf90j77dq6pfuf9hk5bgjtrn1re.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.chatapp",
+            "certificate_hash": "ea020629f9eabd15f3e2b4ca7a624974f1e3aa40"
+          }
+        },
+        {
+          "client_id": "769280109627-b598p2u60eecjqv214bq4nnts68ph4i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT5bRDWTEKeJSMxitGI1J2FR9LPQ5RfUE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769280109627-b598p2u60eecjqv214bq4nnts68ph4i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
